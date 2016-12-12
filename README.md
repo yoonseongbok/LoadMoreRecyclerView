@@ -1,2 +1,2 @@
 # LoadMoreRecyclerView
-[LoadMoreRecyclerView](https://github.com/yoonseongbok/LoadMoreRecyclerView/wiki)
+[Wiki](https://github.com/yoonseongbok/LoadMoreRecyclerView/wiki)
