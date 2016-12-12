@@ -1,2 +1,9 @@
 # LoadMoreRecyclerView
-[Wiki](https://github.com/yoonseongbok/LoadMoreRecyclerView/wiki)
+
+#LinearLayoutManager
+
+![](images/linear.gif)
+
+#GridLayoutManager and StaggeredGridLayoutManager
+
+![](images/grid_staggered.gif)
