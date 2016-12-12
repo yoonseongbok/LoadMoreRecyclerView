@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadMoreRecyclerView</string>
+    <string name="action_linear">LinearLayoutManager</string>
+    <string name="action_grid">GridLayoutManager</string>
+    <string name="action_staggered_grid">StaggeredGridLayoutManager</string>
+
+    <string name="failed_load_more">Failed load more</string>
+</resources>

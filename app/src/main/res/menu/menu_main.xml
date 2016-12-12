@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lucky.loadmorerecyclerview.MainActivity">
+
+    <item
+        android:id="@+id/action_linear"
+        android:title="@string/action_linear"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_grid"
+        android:title="@string/action_grid"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_staggered"
+        android:title="@string/action_staggered_grid"
+        app:showAsAction="never" />
+</menu>
