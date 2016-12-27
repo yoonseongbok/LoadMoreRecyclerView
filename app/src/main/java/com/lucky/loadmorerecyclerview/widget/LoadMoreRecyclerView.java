@@ -19,7 +19,7 @@ import com.lucky.loadmorerecyclerview.R;
 
 public class LoadMoreRecyclerView extends RecyclerView {
     private static final int DEFAULT_HEIGHT = 50;
-    private static final int DEFAULT_THRESHOLD = 10;
+    private static final int DEFAULT_THRESHOLD = 5;
 
     @Nullable
     private OnLoadMoreListener onLoadMoreListener;

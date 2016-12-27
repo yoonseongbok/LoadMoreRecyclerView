@@ -8,6 +8,8 @@
     <com.lucky.loadmorerecyclerview.widget.LoadMoreRecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        app:loadmore_failed_view_id="@+id/load_more_fail_layout"
+        app:loadmore_layout="@layout/default_load_more_progress_layout" />
 
 </RelativeLayout>

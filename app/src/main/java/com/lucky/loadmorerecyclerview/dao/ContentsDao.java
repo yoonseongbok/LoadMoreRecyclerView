@@ -11,7 +11,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 public abstract class ContentsDao {
-    private static final int LIST_SIZE = 30;
+    private static final int LIST_SIZE = 15;
 
     public static Observable<ContentsListModel> getContentsList() {
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="LoadMoreRecyclerView">
-        <attr name="loadmore_height" format="reference" />
+        <attr name="loadmore_height" format="dimension|integer|reference" />
         <attr name="loadmore_layout" format="reference" />
         <attr name="loadmore_loading_view_id" format="reference" />
         <attr name="loadmore_failed_view_id" format="reference" />
